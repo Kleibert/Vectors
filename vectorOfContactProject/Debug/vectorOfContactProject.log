@@ -1,0 +1,6 @@
+﻿  VectorOfContactcpp.cpp
+c:\users\kleibert\desktop\vectorofcontactproject\vectorofcontactproject\header.h(166): warning C4101: 'position': unreferenced local variable
+c:\users\kleibert\desktop\vectorofcontactproject\vectorofcontactproject\header.h(172): warning C4101: 'position': unreferenced local variable
+c:\users\kleibert\desktop\vectorofcontactproject\vectorofcontactproject\header.h(154): warning C4715: 'RechercherUnContact': not all control paths return a value
+c:\users\kleibert\desktop\vectorofcontactproject\vectorofcontactproject\header.h(164): warning C4715: 'RechercherUnContact': not all control paths return a value
+  vectorOfContactProject.vcxproj -> C:\Users\Kleibert\Desktop\vectorOfContactProject\Debug\vectorOfContactProject.exe
